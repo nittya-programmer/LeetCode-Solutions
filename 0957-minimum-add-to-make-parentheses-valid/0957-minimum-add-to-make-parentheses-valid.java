@@ -1,15 +1,32 @@
 class Solution {
     public int minAddToMakeValid(String s) {
-       Stack<Character> stack=new Stack<>();
-        for(int i=0;i<s.length();i++){
+      //Bruteforce approach : TC=O(n) and SC=O(n)
+    //    Stack<Character> stack=new Stack<>();
+    //     for(int i=0;i<s.length();i++){
             
-             if(s.charAt(i)==')' && !stack.isEmpty() &&stack.peek()=='('){
-                stack.pop();
+    //          if(s.charAt(i)==')' && !stack.isEmpty() &&stack.peek()=='('){
+    //             stack.pop();
+    //         }
+    //         else{
+    //              stack.push(s.charAt(i));
+    //         }
+    //     }
+    //     return stack.size();
+        //Optimized approach : TC=O(n) and SC=O(1)
+        int count=0,mismatched=0;
+        for(int i=0;i<s.length();i++){
+            if(s.charAt(i)=='('){
+                count++;
             }
             else{
-                 stack.push(s.charAt(i));
+                if(count>0){
+                    count--;
+                }
+                else{
+                    mismatched++;
+                }
             }
         }
-        return stack.size();
+        return mismatched+count;
     }
 }
