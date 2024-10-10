@@ -12,12 +12,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0567-permutation-in-string](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0567-permutation-in-string](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
