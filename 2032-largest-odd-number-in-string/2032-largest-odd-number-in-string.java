@@ -42,7 +42,7 @@ class Solution {
          String maxOdd="";
         for(int i=0;i<num.length();i++){
             val=val+Character.toString(num.charAt(i));
-            if((Integer.valueOf(val.charAt(i))&((1<<1)-1))!=0){
+            if((Integer.valueOf(val.charAt(i))&((1<<1)-1))!=0){//odd number->val at unit position cant be devide by 2 
                 maxOdd=val;
             }
         }
