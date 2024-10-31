@@ -9,11 +9,16 @@ class Solution {
             map.put(t.charAt(i),map.getOrDefault(t.charAt(i),0)-1);
 
         }
-       for(Integer val:map.values()){
-        if(val>0){
+    //    for(Integer val:map.values()){
+    //     if(val>0){
+    //         return false;
+    //     }
+    //    }
+    for(Character ch:map.keySet()){
+        if(map.get(ch)>0){
             return false;
         }
-       }
+    }
        return true;
     }
 }
