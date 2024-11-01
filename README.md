@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1923-sentence-similarity-iii](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/1923-sentence-similarity-iii) |
 | [2032-largest-odd-number-in-string](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
