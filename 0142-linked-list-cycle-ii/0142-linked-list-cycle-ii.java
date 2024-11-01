@@ -43,53 +43,58 @@ public class Solution {
 
         //Optimal Approach:Tortoise and Hare technique
 
-        // ListNode slow=head;
-        // ListNode fast=head;
-        // if(isCyclePresent(head,slow,fast)){
-        //     slow=head;
-        //     while(slow!=fast){
-        //         slow=slow.next;
-        //         fast=fast.next;
-        //     }
-        //     return slow;
-        // }
-        // return null;
-        ListNode slow = head;  
-        ListNode fast = head;  
-    
-        // Phase 1: Detect the loop
-        while (fast != null && fast.next != null) {
-            // Move slow one step
-            slow = slow.next;        
-            
-            // Move fast two steps
-            fast = fast.next.next;  
-    
-            // If slow and fast meet,
-            // a loop is detected
-            if (slow == fast) {
-                // Reset the slow pointer
-                // to the head of the list
-                slow = head; 
-    
-                // Phase 2: Find the first node of the loop
-                while (slow != fast) {
-                    // Move slow and fast one step
-                    // at a time
-                    slow = slow.next;  
-                    fast = fast.next;  
-    
-                    // When slow and fast meet again,
-                    // it's the first node of the loop
+        ListNode slow=head;
+        ListNode fast=head;
+        while(fast!=null && fast.next!=null){
+             slow=slow.next;
+            fast=fast.next.next;
+            if(slow==fast){
+                slow=head;
+                while(slow!=fast){
+                    slow=slow.next;
+                    fast=fast.next;
                 }
-                
-                // Return the first node of the loop
-                return slow;  
+                return slow;
             }
+           
         }
+        return null;
+        // ListNode slow = head;  
+        // ListNode fast = head;  
+    
+        // // Phase 1: Detect the loop
+        // while (fast != null && fast.next != null) {
+        //     // Move slow one step
+        //     slow = slow.next;        
+            
+        //     // Move fast two steps
+        //     fast = fast.next.next;  
+    
+        //     // If slow and fast meet,
+        //     // a loop is detected
+        //     if (slow == fast) {
+        //         // Reset the slow pointer
+        //         // to the head of the list
+        //         slow = head; 
+    
+        //         // Phase 2: Find the first node of the loop
+        //         while (slow != fast) {
+        //             // Move slow and fast one step
+        //             // at a time
+        //             slow = slow.next;  
+        //             fast = fast.next;  
+    
+        //             // When slow and fast meet again,
+        //             // it's the first node of the loop
+        //         }
+                
+        //         // Return the first node of the loop
+        //         return slow;  
+        //     }
+        // }
         
-        // If no loop is found, return null
-        return null; 
+        // // If no loop is found, return null
+        // return null; 
 
     }
 }
