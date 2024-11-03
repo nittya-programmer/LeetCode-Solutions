@@ -47,8 +47,8 @@ class Solution {
             i++;
         }
         if(th==null){
-            ListNode newHead=head.next;
-            return newHead;
+            //ListNode newHead=head.next;
+            return head.next;
         }
         while(th.next!=null){
             th=th.next;
