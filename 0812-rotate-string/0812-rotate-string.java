@@ -5,7 +5,7 @@ class Solution {
             return false;
         }
         s=s+s;
-        return s.contains(goal);
+        return s.contains(goal);//O(n2)
         //Solution 2
         // if(s.length()!=goal.length()){
         //     return false;
