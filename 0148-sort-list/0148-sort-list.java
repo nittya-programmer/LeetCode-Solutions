@@ -1,4 +1,4 @@
-/**
+/*
  * Definition for singly-linked list.
  * public class ListNode {
  *     int val;
@@ -9,6 +9,7 @@
  * }
  */
 class Solution {
+    
     public ListNode sortList(ListNode head) {
         //Bruteforce Approach
         ArrayList<Integer> list=new ArrayList<>();
@@ -26,5 +27,11 @@ class Solution {
             temp=temp.next;
         }
         return head;
+
+        // Optimal Approach
+
+        
+        
+        
     }
 }
