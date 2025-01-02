@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/1923-sentence-similarity-iii) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3291-find-if-array-can-be-sorted](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 ## Two Pointers
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/1923-sentence-similarity-iii) |
 | [2032-largest-odd-number-in-string](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Hash Table
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Sorting
 |  |
 | ------- |
