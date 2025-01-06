@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [1256-rank-transform-of-an-array](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/1923-sentence-similarity-iii) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/1923-sentence-similarity-iii) |
 | [2032-largest-odd-number-in-string](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/2465-shifting-letters-ii) |
