@@ -251,5 +251,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/0182-duplicate-emails) |
+| [0620-not-boring-movies](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/0620-not-boring-movies) |
 | [0627-swap-salary](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/0627-swap-salary) |
 <!---LeetCode Topics End-->
