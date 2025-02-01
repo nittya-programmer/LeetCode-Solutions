@@ -246,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0684-redundant-connection](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
+## Database
+|  |
+| ------- |
+| [0627-swap-salary](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/0627-swap-salary) |
 <!---LeetCode Topics End-->
