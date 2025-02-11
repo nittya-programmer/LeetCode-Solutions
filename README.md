@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0407-trapping-rain-water-ii](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1396-count-servers-that-communicate](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0567-permutation-in-string](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
@@ -257,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-more-than-5-students](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/0596-classes-more-than-5-students) |
 | [0620-not-boring-movies](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/0620-not-boring-movies) |
 | [0627-swap-salary](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/0627-swap-salary) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
