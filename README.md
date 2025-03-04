@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [1013-fibonacci-number](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -272,4 +274,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/nittya-programmer/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
