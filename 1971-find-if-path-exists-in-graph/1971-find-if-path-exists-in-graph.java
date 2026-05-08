@@ -27,7 +27,7 @@ class Solution {
     // Find with PATH COMPRESSION — flattens tree on every lookup
     private int find(int x) {
         if (parent[x] != x) {
-            parent[x] = find(parent[x]); // 🔑 compress path
+            parent[x] = find(parent[x]); // compress path
         }
         return parent[x];
     }
@@ -39,7 +39,7 @@ class Solution {
 
         if (rootX == rootY) return; // already in same component
 
-        // 🔑 attach lower rank tree under higher rank tree
+        //  attach lower rank tree under higher rank tree
         if (rank[rootX] < rank[rootY]) {
             parent[rootX] = rootY;
         } else if (rank[rootX] > rank[rootY]) {
